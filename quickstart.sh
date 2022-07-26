@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hello, world! The currenttime is $(date)."
+echo "Hello, world! The current time is $(date)."
